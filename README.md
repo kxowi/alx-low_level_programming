@@ -7,3 +7,4 @@ My projects
 - - Bash
 - Technical Writing and Networking
 - - Social media
+
